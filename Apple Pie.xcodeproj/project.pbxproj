@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA073B9122F21A9B0057D2F3 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA073B9022F21A9B0057D2F3 /* Game.swift */; };
 		FAE75DA422EE00CD0072CFB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE75DA322EE00CD0072CFB7 /* AppDelegate.swift */; };
 		FAE75DA622EE00CD0072CFB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE75DA522EE00CD0072CFB7 /* ViewController.swift */; };
 		FAE75DA922EE00CD0072CFB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE75DA722EE00CD0072CFB7 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA073B9022F21A9B0057D2F3 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		FAE75DA022EE00CD0072CFB7 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE75DA322EE00CD0072CFB7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE75DA522EE00CD0072CFB7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FAE75DAA22EE00CF0072CFB7 /* Assets.xcassets */,
 				FAE75DAC22EE00CF0072CFB7 /* LaunchScreen.storyboard */,
 				FAE75DAF22EE00CF0072CFB7 /* Info.plist */,
+				FA073B9022F21A9B0057D2F3 /* Game.swift */,
 			);
 			path = "Apple Pie";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAE75DA622EE00CD0072CFB7 /* ViewController.swift in Sources */,
+				FA073B9122F21A9B0057D2F3 /* Game.swift in Sources */,
 				FAE75DA422EE00CD0072CFB7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
